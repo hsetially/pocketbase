@@ -1,3 +1,8 @@
+## v0.26.4 (WIP)
+
+- Fixed `ModelErrorEvent.Error` sync with `RecordErrorEvent.Error` and `CollectionErrorEvent.Error` ([#6639](https://github.com/pocketbase/pocketbase/issues/6639)).
+
+
 ## v0.26.3
 
 - Fixed and normalized logs error serialization across common types for more consistent logs error output ([#6631](https://github.com/pocketbase/pocketbase/issues/6631)).
